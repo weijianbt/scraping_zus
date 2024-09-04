@@ -9,7 +9,7 @@ The purpose of this project is to:
 Store data is extracted from https://zuscoffee.com/find-a-store/ and output is stored in a json file. The data includes:
 1. Store name
 2. Store address (state & full address)
-3. Store hyperlink
+3. Store Google map hyperlink
 
 By extracting the addresses of each store, we can extract all google reviews and further analyze its reviews as another project. 
 
