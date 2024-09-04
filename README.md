@@ -15,6 +15,7 @@ By extracting the addresses of each store, we can extract all google reviews and
 
 # Limitation
 1. Code is not equipped to bypass bot-detection (if any)
+2. Code uses class name to target elements which may not be robust to webpage changes.
 
 # Disclaimer
 This project is for educational purposes, I have no affiliation with the site and neither I nor the software would be held liable for any consequences resulting from its use.
